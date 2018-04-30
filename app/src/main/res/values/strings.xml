@@ -1,0 +1,118 @@
+<resources>
+    <string name="app_name">Happy Bday Uturn!</string>
+
+    <!--Stories and Choices-->
+    <string name="opening_story">
+        You are at a restaurant with a friend. One minute, you are talking about how US policies are getting your friends deported, and the next minute you are talking about the difficulties of being a human being in general. Suddenly, your friend says, \"You know what we need to do? Go to Cape Breton for an adventure!\"
+    </string>
+    <string name="choice_1">
+        Yes! You agree to go to Cape Breton.
+    </string>
+    <string name="choice_2">
+        No way. I\'ma stay and finish my meal.
+    </string>
+
+
+    <string name="story_1">
+        The two of you drive up to the northern-most tip of Cape Breton, hoping to escape life and find the meaning of life at the same time. Everything was working out well except that something was still missing.
+    </string>
+    <string name="choice_3">
+        Look for advice
+    </string>
+    <string name="choice_4">
+        Explore sans instructions
+    </string>
+
+    <string name="story_2">
+        As soon as you start eating your meal, suddenly more people arrive and you are scrambling to even take one bite before they get at it.
+    </string>
+    <string name="choice_5">
+        Give up and go home.
+    </string>
+    <string name="choice_6">
+        Try harder to keep eating.
+    </string>
+
+    <string name="story_3">
+        Conveniently, you spot a phone a few metres away. You don\'t have any change, but try picking up the phone anyway. There is a young woman on the line. She says, \"It is not why, but how. It is not where, but when.\"
+    </string>
+    <string name="choice_7">
+       It\'s too confusing. You hang up the phone.
+    </string>
+    <string name="choice_8">
+        You respond to the woman.
+    </string>
+
+    <string name="story_4">
+        Exploring your surroundings, there is nothing much to be found except brush and dust. But then! You turn a corner and behold the answers to all your problems!
+    </string>
+    <string name="choice_9">
+        Follow the money
+    </string>
+    <string name="choice_10">
+        Follow your heart
+    </string>
+
+    <string name="story_5">
+        You wander slowly home. It\'s a brisk day, and you imagine you\'re with your original friend eating without all the extra hassles of the human condition and extra friends.
+    </string>
+    <string name="choice_11">
+        Rush home
+    </string>
+    <string name="choice_12">
+        Continue meandering
+    </string>
+
+    <string name="story_6">
+        The feeding frenzy becomes out of control. The fire department shows up, but they are at a loss for how to handle this situation.
+    </string>
+    <string name="choice_13">
+        Ask for your money back
+    </string>
+    <string name="choice_14">
+        Join the fire deparment
+    </string>
+    <!--<string name="choice_14">-->
+        <!--Go home-->
+    <!--</string>-->
+
+    <string name="ending_1">
+        As soon as you hang up, suddenly you feel a giant force from the sky. It shoots down onto you in a firey bolt. You have been zapped into an infinite daze.
+    </string>
+
+    <!--Endings-->
+    <string name="ending_2">
+        The woman is so delighted that you picked up the phone. She hasn\'t spoken to anyone in over 300 years. She transports you to her home where she makes you her honorary guest of honour.
+    </string>
+    <string name="ending_3">
+        UTurn, following your heart always leads to butterflies and rainbows.
+    </string>
+    <string name="ending_4">
+        You think you\'re going to actually get what you think you\'re going to get? No way!
+    </string>
+    <string name="ending_5">
+        The fire department willing accepts you but puts you through intensive training to the point that you completely forget about your original meal.
+    </string>
+    <!--<string name="ending_5">-->
+        <!--At home, you find that your house has been taken over by a film crew that is producing your adventure into a feature-length film.-->
+    <!--</string>-->
+    <!--<string name="ending_6">-->
+        <!--Finally, you can relax at peace in your home. No more friends. No more human conundrums.-->
+    <!--</string>-->
+    <string name="ending_6">
+        Finally, you can relax at peace in your home. Just your awesome family. No more human conundrums.
+    </string>
+    <string name="ending_7">
+        In the end, all roads lead to the teahouse. With an unlimited variety of teas, you find yourself again overwhelmed by all of the choices. The paradox of choice is too much, and you collapse.
+    </string>
+
+    <!--Ending "choice"-->
+    <string name="choice_15">
+        Play Again
+    </string>
+
+
+
+
+
+</resources>
