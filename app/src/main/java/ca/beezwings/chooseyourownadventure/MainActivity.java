@@ -31,10 +31,9 @@ public class MainActivity extends AppCompatActivity {
             new Adventure(R.string.ending_1, R.string.choice_15, 0, R.drawable.lightning, true),
             new Adventure(R.string.ending_2, R.string.choice_15, 0,R.drawable.woman, true),
             new Adventure(R.string.ending_3, R.string.choice_15, 0,R.drawable.rainbows, true),
-            new Adventure(R.string.ending_4, R.string.choice_15, 0,R.drawable.huh, true),
-            new Adventure(R.string.ending_5, R.string.choice_15, 0,R.drawable.race, true),
-//            new Adventure(R.string.ending_6, R.string.choice_15, 0,R.drawable.fireplace, true),
-            new Adventure(R.string.ending_6, R.string.choice_15, 0,R.drawable.kids, true),
+            new Adventure(R.string.ending_4, R.string.choice_15, 0,R.drawable.you, true),
+            new Adventure(R.string.ending_5, R.string.choice_15, 0,R.drawable.lightning, true),
+            new Adventure(R.string.ending_6, R.string.choice_15, 0,R.drawable.fireplace, true),
             new Adventure(R.string.ending_7, R.string.choice_15, 0,R.drawable.teahouse, true)
     };
 
