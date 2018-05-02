@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Happy Bday Uturn!</string>
+    <string name="app_name">Choose Your Own Adventure</string>
 
     <!--Stories and Choices-->
     <string name="opening_story">
