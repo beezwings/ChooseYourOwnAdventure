@@ -70,11 +70,8 @@
         Ask for your money back
     </string>
     <string name="choice_14">
-        Join the fire deparment
-    </string>
-    <!--<string name="choice_14">-->
-        <!--Go home-->
-    <!--</string>-->
+        Go home
+   </string
 
     <string name="ending_1">
         As soon as you hang up, suddenly you feel a giant force from the sky. It shoots down onto you in a firey bolt. You have been zapped into an infinite daze.
@@ -91,16 +88,10 @@
         You think you\'re going to actually get what you think you\'re going to get? No way!
     </string>
     <string name="ending_5">
-        The fire department willing accepts you but puts you through intensive training to the point that you completely forget about your original meal.
+        At home, you find that your house has been taken over by a film crew that is producing your adventure into a feature-length film.-->
     </string>
-    <!--<string name="ending_5">-->
-        <!--At home, you find that your house has been taken over by a film crew that is producing your adventure into a feature-length film.-->
-    <!--</string>-->
-    <!--<string name="ending_6">-->
-        <!--Finally, you can relax at peace in your home. No more friends. No more human conundrums.-->
-    <!--</string>-->
-    <string name="ending_6">
-        Finally, you can relax at peace in your home. Just your awesome family. No more human conundrums.
+    <string name="ending_6"
+        Finally, you can relax at peace in your home. No more friends. No more human conundrums.
     </string>
     <string name="ending_7">
         In the end, all roads lead to the teahouse. With an unlimited variety of teas, you find yourself again overwhelmed by all of the choices. The paradox of choice is too much, and you collapse.
